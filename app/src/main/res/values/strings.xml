@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Twitter App</string>
+    <string name="title_activity_home">Home</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_tweet">Tweet</string>
+    <string name="action_logout">Logout</string>
+    <string name="title_activity_tweet">Tweet</string>
+    <string name="auth_error">Twitter authentication error</string>
+    <string name="tweet_button_label">Tweet</string>
+    <string name="test_string">HEY!</string>
+    <string name="status_update_error">Error updating status</string>
+    <string name="timeline_error">An error has occurred retrieving the timeline</string>
+    <string name="signin_error">An error has occurred signing in</string>
+    <string name="tweet_hint">What\'s happening?</string>
+    <string name="sending_tweet_x">Sending tweet: \'%1$s\'</string>
+</resources>
