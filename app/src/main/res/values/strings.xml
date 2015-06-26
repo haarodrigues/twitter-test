@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">My Twitter App</string>
+    <string name="app_name">Hugo\'s Twitter App</string>
     <string name="title_activity_home">Home</string>
 
     <string name="hello_world">Hello world!</string>
